@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662804566331",
+    "project_id": "my-firebase-project-a615d",
+    "storage_bucket": "my-firebase-project-a615d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662804566331:android:cea48eac04f5472a4fa71e",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662804566331-7e8vhs9ea357123fqm1q8uqnfphbg310.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSZ6cfG6cfNL3mVm60YuiN5JiUFj3aLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662804566331-7e8vhs9ea357123fqm1q8uqnfphbg310.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
