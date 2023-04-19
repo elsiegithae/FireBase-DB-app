@@ -1,6 +1,7 @@
 package com.example.morningfirebasedbapp
 
 import android.app.ProgressDialog
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -68,7 +69,8 @@ class MainActivity : AppCompatActivity() {
             }
         }
         edtView.setOnClickListener {
-
+            var tembea=Intent(this, UsersActivity::class.java)
+            startActivity(tembea)
         }
 
     }

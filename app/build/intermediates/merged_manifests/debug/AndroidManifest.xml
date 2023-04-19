@@ -35,6 +35,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.MorningFirebaseDBApp" >
         <activity
+            android:name="com.example.morningfirebasedbapp.UserUpdateActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.morningfirebasedbapp.UsersActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.morningfirebasedbapp.MainActivity"
             android:exported="true" >
             <intent-filter>
